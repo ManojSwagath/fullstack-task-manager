@@ -2,6 +2,16 @@
 
 A scalable REST API with Authentication & Role-Based Access Control, featuring a React frontend for task management and an **AI-powered productivity assistant**.
 
+## 🌐 Live Demo
+
+| Component | URL |
+|-----------|-----|
+| **Frontend** | [https://fullstack-task-manager-kappa.vercel.app](https://fullstack-task-manager-kappa.vercel.app) |
+| **Backend API** | [https://fullstack-task-manager-mdhp.onrender.com/api/v1](https://fullstack-task-manager-mdhp.onrender.com/api/v1) |
+| **API Docs (Swagger)** | [https://fullstack-task-manager-mdhp.onrender.com/api-docs](https://fullstack-task-manager-mdhp.onrender.com/api-docs) |
+
+> **Note**: Backend is hosted on Render's free tier - first request may take ~30 seconds to wake up.
+
 ## 🚀 Features
 
 ### Backend
